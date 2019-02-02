@@ -5,7 +5,7 @@
  * Create by Maria Isabel Ortiz Naranjo 18176
  * Create by Diego Estrada
  */
-package com.company;
+package JavaClases;
 
 import org.junit.runners.Parameterized;
 
