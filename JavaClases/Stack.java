@@ -7,7 +7,7 @@
  * Clase: interface Stack
  *
  * */
-package com.company;
+package JavaClases;
 
 /**
  * @param <E> elemento almacenado por la pila
