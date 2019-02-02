@@ -7,7 +7,7 @@
  *
  * */
 
-package com.company;
+package JavaClases;
 
 /**
  * Clase que implementa Calculator
