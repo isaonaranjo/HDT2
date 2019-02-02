@@ -6,7 +6,7 @@
  *  Main de la Calculadora
  */
 
-package com.company;
+package JavaClases;
 
 import java.util.*;
 import java.io.*;
