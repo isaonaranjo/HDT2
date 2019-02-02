@@ -8,7 +8,7 @@
  *
  * */
 
-package com.company;
+package JavaClases;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
