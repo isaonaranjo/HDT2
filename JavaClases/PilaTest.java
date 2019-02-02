@@ -6,7 +6,7 @@
  * Create by Diego Estrada
  *
  * */
-package com.company;
+package JavaClases;
 
         import org.junit.Test;
         import org.junit.runner.RunWith;
