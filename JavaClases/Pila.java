@@ -8,7 +8,7 @@
  * Clase: Pila
  *
  * */
-package com.company;
+package JavaClases;
 import java.util.*;
 
 /**
